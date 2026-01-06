@@ -1,0 +1,6 @@
+[
+  {"event_id": 1, "event_type": "login", "customer_id": 101, "timestamp": "2025-01-05T10:15:00Z", "device": "mobile"},
+  {"event_id": 2, "event_type": "purchase", "customer_id": 101, "timestamp": "2025-01-05T10:20:00Z", "product_id": 1, "amount": 1200.00},
+  {"event_id": 3, "event_type": "logout", "customer_id": 101, "timestamp": "2025-01-05T10:25:00Z", "device": "mobile"},
+  {"event_id": 4, "event_type": "purchase", "customer_id": 102, "timestamp": "2025-01-06T14:00:00Z", "product_id": 2, "amount": 160.00}
+]
